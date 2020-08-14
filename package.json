@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/jsantell/three-devtools#readme",
   "dependencies": {
-    "@egjs/agent": "2.1.5",
+    "@egjs/agent": "2.1.6",
     "lit-element": "2.2.1",
     "lit-html": "1.1.2",
     "three": "0.112.0",
